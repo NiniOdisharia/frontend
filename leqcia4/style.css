@@ -1,0 +1,39 @@
+div {
+    background-color: rgb(64, 199, 69);  
+}
+
+#firstDiv {
+    background-color: rgb(221, 221, 134);
+}
+
+.redElements {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 0, 0);
+    background-color: rgb(239, 45, 45);
+    font-style: italic;
+    font-weight: 1000;
+}
+ 
+.tallElements {
+    height: 50px;
+}
+
+#firstDiv, .redElements {
+    color: green;
+}
+
+#separateDiv p {
+    color: green;
+}
+
+.squareElement {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(89, 89, 198);
+    border:  100px solid aqua;
+
+}
+
+.child {
+    width: 20%;
+}
